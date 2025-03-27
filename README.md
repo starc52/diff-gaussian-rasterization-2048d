@@ -1,6 +1,6 @@
-# Differential Gaussian Rasterization 2048D
+# Differential Gaussian Rasterization 512D
 
-Used as the rasterization engine for the paper "2048D Gaussian Splatting for Real-Time Rendering of Radiance Fields". If you can make use of it in your own research, please be so kind to cite us.
+Used as the rasterization engine for the paper "512D Gaussian Splatting for Real-Time Rendering of Radiance Fields". If you can make use of it in your own research, please be so kind to cite us.
 
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
